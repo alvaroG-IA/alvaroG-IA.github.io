@@ -1,12 +1,24 @@
-/* Solo estilos de tu portfolio */
-h1 {
-  color: #007acc; /* cambia el color del título principal */
-}
-
+/* Tarjetas de proyectos */
 .project-card {
-  background-color: #fff;
+  background: #fff;
   border-radius: 10px;
   padding: 20px;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
   margin-bottom: 20px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+}
+
+/* Títulos de secciones */
+h2 {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 5px;
+  margin-top: 40px;
+}
+
+/* Enlaces */
+a {
+  color: #007acc;
+}
+
+a:hover {
+  text-decoration: underline;
 }
