@@ -1,42 +1,70 @@
+/* Fuentes y base */
 body {
-  font-family: Arial, sans-serif;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: #f4f4f4;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f9f9f9;
   color: #333;
-}
-
-header {
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-header h1 {
+  line-height: 1.6;
   margin: 0;
+  padding: 0;
 }
 
-header nav a {
-  margin: 0 15px;
-  text-decoration: none;
+a {
   color: #007acc;
-  font-weight: bold;
+  text-decoration: none;
 }
 
-header nav a:hover {
+a:hover {
   text-decoration: underline;
 }
 
+/* Contenedor central */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header */
+.site-header {
+  text-align: center;
+  padding: 50px 20px 30px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  margin-bottom: 40px;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.site-header .subtitle {
+  margin-top: 10px;
+  font-weight: 400;
+  color: #555;
+}
+
+.site-header nav {
+  margin-top: 20px;
+}
+
+.site-header nav a {
+  margin: 0 15px;
+  font-weight: 500;
+}
+
+/* Secciones */
 section {
   margin-bottom: 50px;
 }
 
+/* Proyectos */
 .project {
-  border: 1px solid #ddd;
-  padding: 15px;
-  margin-bottom: 15px;
-  border-radius: 8px;
-  background-color: #fff;
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
 }
 
 .project h3 {
@@ -44,10 +72,16 @@ section {
 }
 
 .project a {
-  color: #007acc;
-  text-decoration: none;
+  font-weight: 500;
 }
 
-.project a:hover {
-  text-decoration: underline;
+/* Footer */
+.site-footer {
+  text-align: center;
+  padding: 30px 20px;
+  background: #fff;
+  border-top: 1px solid #eee;
+  margin-top: 50px;
+  color: #777;
+  font-size: 0.9em;
 }
