@@ -1,67 +1,12 @@
-/* Solo estilos específicos de elementos de contenido */
-.container-portfolio {
-  max-width: 900px;
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
   margin: 0 auto;
   padding: 20px;
+  background: #f4f4f4;
+  color: #333;
 }
-
-/* Header personalizado dentro del contenido, no global */
-.header-portfolio {
+header, footer {
   text-align: center;
-  padding: 50px 20px 30px;
-  margin-bottom: 40px;
-}
-
-.header-portfolio h1 {
-  margin: 0;
-  font-size: 2.5em;
-}
-
-.header-portfolio .subtitle {
-  margin-top: 10px;
-  font-weight: 400;
-  color: #555;
-}
-
-.header-portfolio nav a {
-  margin: 0 15px;
-  font-weight: 500;
-  text-decoration: none;
-  color: #007acc;
-}
-
-.header-portfolio nav a:hover {
-  text-decoration: underline;
-}
-
-/* Secciones de contenido */
-.section-portfolio {
-  margin-bottom: 50px;
-}
-
-/* Proyectos */
-.project-portfolio {
-  background: #fff;
-  border-radius: 10px;
-  padding: 20px;
   margin-bottom: 20px;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
-}
-
-.project-portfolio h3 {
-  margin-top: 0;
-}
-
-.project-portfolio a {
-  font-weight: 500;
-}
-
-/* Footer personalizado */
-.footer-portfolio {
-  text-align: center;
-  padding: 30px 20px;
-  border-top: 1px solid #eee;
-  margin-top: 50px;
-  color: #777;
-  font-size: 0.9em;
 }

@@ -1,5 +1,6 @@
 ---
 title: Portfolio - Álvaro García Velasco
+layout: default
 ---
 
 # Álvaro García Velasco
