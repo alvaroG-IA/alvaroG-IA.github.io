@@ -1,65 +1,46 @@
-/* Fuentes y base */
-body {
-  font-family: 'Roboto', sans-serif;
-  background-color: #f9f9f9;
-  color: #333;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-}
-
-a {
-  color: #007acc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Contenedor central */
-.container {
+/* Solo estilos específicos de elementos de contenido */
+.container-portfolio {
   max-width: 900px;
   margin: 0 auto;
   padding: 20px;
 }
 
-/* Header */
-.site-header {
+/* Header personalizado dentro del contenido, no global */
+.header-portfolio {
   text-align: center;
   padding: 50px 20px 30px;
-  background: #fff;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
   margin-bottom: 40px;
 }
 
-.site-header h1 {
+.header-portfolio h1 {
   margin: 0;
   font-size: 2.5em;
 }
 
-.site-header .subtitle {
+.header-portfolio .subtitle {
   margin-top: 10px;
   font-weight: 400;
   color: #555;
 }
 
-.site-header nav {
-  margin-top: 20px;
-}
-
-.site-header nav a {
+.header-portfolio nav a {
   margin: 0 15px;
   font-weight: 500;
+  text-decoration: none;
+  color: #007acc;
 }
 
-/* Secciones */
-section {
+.header-portfolio nav a:hover {
+  text-decoration: underline;
+}
+
+/* Secciones de contenido */
+.section-portfolio {
   margin-bottom: 50px;
 }
 
 /* Proyectos */
-.project {
+.project-portfolio {
   background: #fff;
   border-radius: 10px;
   padding: 20px;
@@ -67,19 +48,18 @@ section {
   box-shadow: 0 2px 12px rgba(0,0,0,0.05);
 }
 
-.project h3 {
+.project-portfolio h3 {
   margin-top: 0;
 }
 
-.project a {
+.project-portfolio a {
   font-weight: 500;
 }
 
-/* Footer */
-.site-footer {
+/* Footer personalizado */
+.footer-portfolio {
   text-align: center;
   padding: 30px 20px;
-  background: #fff;
   border-top: 1px solid #eee;
   margin-top: 50px;
   color: #777;
