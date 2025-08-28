@@ -1,4 +1,4 @@
 title: "Porfolio - Álvaro García Velasco"
 description: "Bienvenido a mi porfolio, donde encontraras algunos de mis proyectos y mis datos de contacto"
-theme: jekyll-theme-slate
+theme: minima
 markdown: kramdown
