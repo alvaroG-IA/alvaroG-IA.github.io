@@ -5,15 +5,18 @@ title: Portfolio - Álvaro García Velasco
 # Álvaro García Velasco
 *Graduado en Inteligencia Artificial*
 
-[Proyectos](#projects) | [Sobre mí](#about) | [Blog](/blog) | [Contacto](#contact)
+[Proyectos](#projects) | [Sobre mí](#about)  | [Contacto](#contact)
 
 ---
+
 
 ## Sobre mí {#about}
 
 Hola! Mi nombre es Álvaro García Velasco. Actualmente soy estudiante del grado en Inteligencia Artificial en la Universidad Rey Juan Carlos. Me considero un apasionado de la tecnología y del mundo de la IA. Mis principales intereses son los LLM y la integración de IA en sistemas reales.
 
+
 ---
+
 
 ## Proyectos destacados {#projects}
 
@@ -29,7 +32,9 @@ Clasificación de tráfico de red malicioso con autoencoders.
 Sistema encargado de detectar y clasificar jeroglíficos basado en la arquitectura `CycleGAN`.  
 [Ver código](https://github.com/alvaroG-IA/clf)
 
+
 ---
+
 
 ## Contacto {#contact}
 
