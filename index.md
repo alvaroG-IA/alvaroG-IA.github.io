@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Portfolio - Álvaro García Velasco
 ---
 
@@ -24,11 +23,13 @@ Clasificación de tráfico de red malicioso con autoencoders.
 Sistema encargado de detectar y clasificar jeroglíficos basado en la arquitectura `CycleGAN`.  
 [Ver código](https://github.com/alvaroG-IA/clf)
 
+---
+
 ## Último post de mi blog sobre mi trabajo en los proyectos
 En el siguiente link encontraras mi ultima publicación de mi blog pesonal en el que voy contando como 
 estoy llevando a cabo mis proyectos y donde ademas comparto lo problemas que he ido encontrando y también
 como los he solucionado
-[Ver blog](https://username.github.io/2025/08/28/post-prueba.html)
+[Ver blog](https:://github.com)
 
 ---
 
