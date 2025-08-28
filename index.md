@@ -28,7 +28,7 @@ Sistema encargado de detectar y clasificar jeroglíficos basado en la arquitectu
 En el siguiente link encontraras mi ultima publicación de mi blog pesonal en el que voy contando como 
 estoy llevando a cabo mis proyectos y donde ademas comparto lo problemas que he ido encontrando y también
 como los he solucionado
-[Ver blog]('_posts/2025-08-28-post-prueba.md')
+[Ver blog](https://username.github.io/2025/08/28/post-prueba.html)
 
 ---
 
