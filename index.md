@@ -12,7 +12,8 @@ title: Portfolio - Álvaro García Velasco
 
 ## Sobre mí {#about}
 
-Hola! Mi nombre es Álvaro García Velasco. Actualmente soy estudiante del grado en Inteligencia Artificial en la Universidad Rey Juan Carlos. Me considero un apasionado de la tecnología y del mundo de la IA. Mis principales intereses son los LLM y la integración de IA en sistemas reales.
+Hola! 👋
+Mi nombre es Álvaro García Velasco. Actualmente soy estudiante del grado en Inteligencia Artificial en la Universidad Rey Juan Carlos. Me considero un apasionado de la tecnología y del mundo de la IA. Mis principales intereses son los LLM y la integración de IA en sistemas reales.
 
 
 ---
