@@ -27,9 +27,11 @@ title: Portfolio - Álvaro García Velasco
 Asistente de RRHH con recuperación de documentos internos.  
 [Ver código](https://github.com/alvaroG-IA/chatBot-empresarial-RAG)
 
+
 ### IA para Ciberseguridad
 Clasificación de tráfico de red malicioso con autoencoders.  
 [Ver código](https://github.com/alvaroG-IA/cybersecurity-ml)
+
 
 ### Detector y Clasificador de jeroglíficos
 Sistema encargado de detectar y clasificar jeroglíficos basado en la arquitectura `CycleGAN`.  
