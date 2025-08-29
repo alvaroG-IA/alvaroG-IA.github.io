@@ -3,22 +3,23 @@ title: Portfolio - Álvaro García Velasco
 ---
 
 # Álvaro García Velasco
-![Álvaro García Velasco](/images/WhatsApp%20Image%202025-08-28%20at%2018.12.36.jpeg)
 *Graduado en Inteligencia Artificial*
 
 [Proyectos](#projects) | [Sobre mí](#about)  | [Contacto](#contact)
 
 ---
 
-
 ## Sobre mí {#about}
 
-Hola! 👋
-Mi nombre es Álvaro García Velasco. Actualmente soy estudiante del grado en Inteligencia Artificial en la Universidad Rey Juan Carlos. Me considero un apasionado de la tecnología y del mundo de la IA. Mis principales intereses son los LLM y la integración de IA en sistemas reales.
-
+<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+  <img src="images/foto_perfil.jpeg" alt="Álvaro García Velasco" width="120" style="margin-right:20px; border-radius:8px;"/>
+  <p>
+    Hola! 👋<br>
+    Mi nombre es Álvaro García Velasco. Actualmente soy estudiante del grado en Inteligencia Artificial en la Universidad Rey Juan Carlos. Me considero un apasionado de la tecnología y del mundo de la IA. Mis principales intereses son los LLM y la integración de IA en sistemas reales.
+  </p>
+</div>
 
 ---
-
 
 ## Proyectos destacados {#projects}
 
@@ -34,9 +35,7 @@ Clasificación de tráfico de red malicioso con autoencoders.
 Sistema encargado de detectar y clasificar jeroglíficos basado en la arquitectura `CycleGAN`.  
 [Ver código](https://github.com/alvaroG-IA/clf)
 
-
 ---
-
 
 ## Contacto {#contact}
 
