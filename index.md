@@ -23,7 +23,7 @@ Mi nombre es Álvaro García Velasco. Actualmente soy estudiante del grado en In
 
 ### Chatbot RAG Empresarial
 Asistente de RRHH con recuperación de documentos internos.  
-[Ver código](https://github.com/alvaroG-IA/chatbot-rag)
+[Ver código](https://github.com/alvaroG-IA/chatBot-empresarial-RAG)
 
 ### IA para Ciberseguridad
 Clasificación de tráfico de red malicioso con autoencoders.  
