@@ -3,6 +3,7 @@ title: Portfolio - Álvaro García Velasco
 ---
 
 # Álvaro García Velasco
+![Álvaro García Velasco](_images/WhatsApp Image 2025-08-28 at 18.12.36.jpeg)
 *Graduado en Inteligencia Artificial*
 
 [Proyectos](#projects) | [Sobre mí](#about) | [Blog](/blog) | [Contacto](#contact)
