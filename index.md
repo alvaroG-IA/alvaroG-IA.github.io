@@ -43,4 +43,4 @@ Sistema encargado de detectar y clasificar jeroglíficos basado en la arquitectu
 
 - **Email:** alvarogarciavelasco1212@gmail.com  
 - **GitHub:** [alvaroG-IA](https://github.com/alvaroG-IA)  
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-garc%C3%ADa-velasco-2a301031a)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alvaro-garcia-velasco/)
